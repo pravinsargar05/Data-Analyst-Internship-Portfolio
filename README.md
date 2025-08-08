@@ -6,4 +6,6 @@ Tools: Excel
 ## Task 2: Data Visualization and Storytelling
 Objective: Create visualizations that convey a compelling story.
 Tools: Power BI
-
+## Task 3:  Dashboard Design
+Objective: Design an interactive dashboard for business stakeholders.
+Tools: Power BI
