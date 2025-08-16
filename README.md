@@ -29,3 +29,5 @@ Tools: Power BI
  Tools: 1. Python (with sqlite3, pandas, matplotlib)
         2. SQLite (built into Python — no setup!)
         3. Jupyter Notebook 
+## Task 8: Create a basic interactive dashboard that shows sales performance
+Tools: Power BI
