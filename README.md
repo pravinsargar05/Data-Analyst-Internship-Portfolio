@@ -31,3 +31,8 @@ Tools: Power BI
         3. Jupyter Notebook 
 ## Task 8: Create a basic interactive dashboard that shows sales performance
 Tools: Power BI
+
+## Project : E-commerce Return Rate Reduction Analysis
+Objective: Identify why customers return products and how return rates vary by category, geography,
+and marketing channel.
+Tools: Python, Power BI, SQL
